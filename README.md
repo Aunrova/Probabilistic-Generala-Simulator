@@ -23,8 +23,7 @@ As an aspiring researcher in computational logic, I designed this engine to hand
    git clone [https://github.com/Aunrova/Generala-Game-Engine.git](https://github.com/Aunrova/Generala-Game-Engine.git)
 3. Compile the code:
 gcc main.c -o generala
-
-Run the executable:
+4. Run the executable:
 ./generala
 
 Developed by Ahmet Onur Taşgüzen - METU Computer Engineering Student.
